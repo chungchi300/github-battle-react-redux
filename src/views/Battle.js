@@ -1,5 +1,5 @@
-import PlayerInput from './PlayerInput';
-import PlayerPreview from './PlayerPreview';
+import PlayerInput from '../components/PlayerInput';
+import PlayerPreview from '../components/PlayerPreview';
 
 import React, {PropTypes} from 'react';
 import {Provider, connect} from 'react-redux';
